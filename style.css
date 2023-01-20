@@ -17,6 +17,11 @@ p {
     font-weight: 100;
 }
 
+h1 {
+    font-family: 'Fraunces', serif;
+    margin-right: 40px;
+}
+
 .headding {
     font-size: 14px;
     letter-spacing: 6px;
